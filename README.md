@@ -57,7 +57,7 @@ Alongside research, I teach mathematics and enjoy turning difficult ideas into u
 ---
 
 <p align="center">
-  <img src="./blue-sky.gif" alt="Blue sky artwork shared by Dulara" width="480" />
+  <img src="./blue-sky.gif" alt="I Belive I Can Fly Blue Sky GIF" width="480" />
 </p>
 
 <p align="center"><em>Careful experiments. Clear explanations. Better questions.</em></p>
