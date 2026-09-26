@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vintage-header.png" alt="Dulara Madhusanka — Data Science and Graph Learning" width="100%" />
+  <img src="./vintage-header.png" alt="Dulara Madhusanka — Data Science and Graph Learning" width="100%" />
 </p>
 
 <p align="center">
