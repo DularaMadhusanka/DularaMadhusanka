@@ -25,7 +25,7 @@ Alongside research, I teach mathematics and enjoy turning difficult ideas into u
 
 | Year | Work | Note |
 | :--- | :--- | :--- |
-| 2026 | **[Tag Entropy: A Structure-Agnostic Curriculum Learning Framework for Graph Neural Networks](https://ieeexplore.ieee.org/document/11691316)** | First author · MERCon 2026 · accepted, publication pending |
+| 2026 | **[Tag Entropy: A Structure-Agnostic Curriculum Learning Framework for Graph Neural Networks](https://ieeexplore.ieee.org/document/11691316)** | First author · MERCon 2026 |
 | 2026 | **Beyond Easy-to-Hard: Investigating Tag-Entropy-Based Training Order in Graph Neural Networks** | First author · IJCAI–ECAI GlobalSouthAI Workshop · accepted, publication pending |
 | 2026 | **[Confusion-Aware Transfer Teacher Curriculum Learning Framework: Disentangling Scoring and Pacing Effects](https://arxiv.org/abs/2606.17706)** | Co-author · presented at the Global South ML Workshop, ICML 2026 |
 
