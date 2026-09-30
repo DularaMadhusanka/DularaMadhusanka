@@ -2,9 +2,6 @@
   <img src="./Banner.gif" alt="Dulara Madhusanka — Data Science and Graph Learning" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./assets/research-note.gif" alt="Research question: What changes when we change the order of learning?" width="100%" />
-</p>
 
 <p align="center">
   <a href="https://dularamadhusanka.github.io/portfolio/#home">Portfolio</a> &nbsp;·&nbsp;
@@ -57,7 +54,7 @@ Alongside research, I teach mathematics and enjoy turning difficult ideas into u
 ---
 
 <p align="center">
-  <img src="./I Belive I Can Fly Blue Sky GIF.gif" alt="I Belive I Can Fly Blue Sky GIF" width="480" />
+  <img src="./I Belive I Can Fly Blue Sky GIF.gif" alt="I Belive I Can Fly Blue Sky GIF" width="100%" />
 </p>
 
 <p align="center"><em>Careful experiments. Clear explanations. Better questions.</em></p>
